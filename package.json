@@ -1,5 +1,5 @@
 {
-  "name": "neocities-updater",
+  "name": "neocities-manager-updater-and-remover",
   "version": "1.0.0",
   "description": "npm install",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "upload": "node index.js upload",
     "delete": "node index.js delete"
   },
-  "author": "",
+  "author": "nathnolt",
   "license": "ISC",
   "dependencies": {
     "neocities": "0.0.3"
