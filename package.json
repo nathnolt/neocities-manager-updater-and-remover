@@ -1,0 +1,15 @@
+{
+  "name": "neocities-updater",
+  "version": "1.0.0",
+  "description": "npm install",
+  "main": "index.js",
+  "scripts": {
+    "upload": "node index.js upload",
+    "delete": "node index.js delete"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "neocities": "0.0.3"
+  }
+}
