@@ -4,7 +4,7 @@ var neocities = require('neocities')
 try {
 	var config = require('./config.js')
 } catch(err) {
-	console.log('You need to add a onfig.js file')
+	console.log('You need to add a config.js file')
 	process.exit(1)
 }
 var siteFolder = './public'
